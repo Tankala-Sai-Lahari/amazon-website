@@ -25,7 +25,7 @@ products=[{
     }
 ]
 //for each loop
-
+//products.forEach((product)=>{console.log(product);});
 products.forEach((product)=>{
     const html = `
     <div class="product-container">
