@@ -24,6 +24,7 @@ products=[{
         }
     }
 ]
+//for each loop
 
 products.forEach((product)=>{
     const html = `
